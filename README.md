@@ -12,5 +12,6 @@
 - Sock and Buskin
 - Dusk
 
-**Achieved by a 14-year-old Iranian player.**  
-**بدون بذر (ران معمولی) - رکورد توسط یک بازیکن ۱۴ ساله ایرانی ثبت شده است.**
+**This is my record, achieved in an Unseeded (normal run). I am 14 years old, Iranian, and this record is officially submitted.**
+
+"این رکورد من در حالت ران معمولی (بدون بذر) انجام شده که سنم 14 ساله و ایرانی هستم و ثبت شده"

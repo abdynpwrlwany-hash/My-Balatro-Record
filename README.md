@@ -3,7 +3,7 @@
 
 **Unseeded (Normal Run) - Ante 17**  
 **Best Hand: 9.209e24**  
-**Most Played Hand: Five of a Kind (22 times)**
+**Most Played Hand: Five of a Kind (22 times).**.
 **Achieved with Black Deck**
 
 

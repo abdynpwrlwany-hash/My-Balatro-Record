@@ -15,6 +15,8 @@
 - Sock and Buskin
 - Dusk
 
-**This is my record, achieved in an Unseeded (normal run). I am 14 years old, Iranian, and this record is officially submitted.**
+**This record was achieved in an Unseeded (normal run). I am a 14-year-old Iranian player, and this record is officially submitted.**
+**Signed: Zeynalabedin (Abedin)**
 
 **این رکورد من در حالت ران معمولی (بدون بذر) انجام شده که سنم 14 ساله و ایرانی هستم و ثبت شده.**
+**امضاء: زین‌العابدین (عابدین)**

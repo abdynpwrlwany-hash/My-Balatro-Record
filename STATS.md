@@ -19,3 +19,4 @@
 
 ---
 *Part of the Balatro World Record by a 14-year-old Iranian player.*
+*Last Updated by Zeynalabedin (Abedin) on June 7, 2026.*

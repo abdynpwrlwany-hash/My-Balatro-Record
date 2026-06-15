@@ -1,19 +1,19 @@
 # My Balatro Record - Performance Report
 
-**Last Update:** Sunday, June 14, 2026(24 Khordad 1405)
+**Last Update:** 15 June 2026 (25 Khordad 1405)
 
 ## 📊 Final Statistics (First Week)
 
 | Metric | Total |
 | :--- | :---: |
-| **Total Views** | 175 |
-| **Total Clones (Downloads)** | 179 |
-| **Unique Cloners** | 90 |
-| **Referrals from Game Jolt** | 18 |
+| **Total Views** | 189 |
+| **Total Clones (Downloads)** | 212 |
+| **Unique Cloners** | 102 |
+| **Referrals from Game Jolt** | 20 |
 
 ## 🏆 Global Impact
 
-- **This record is now saved on 59 computers worldwide.**
+- **This record is now saved on 212 computers worldwide.**
 - **18 people came directly from the Game Jolt post.**
 - **The conversion rate (view → download) is ~50%.**
 

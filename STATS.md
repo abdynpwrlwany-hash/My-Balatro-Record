@@ -6,16 +6,16 @@
 
 | Metric | Total |
 | :--- | :---: |
-| **Total Views** | 189 |
-| **Total Clones (Downloads)** | 212 |
-| **Unique Cloners** | 102 |
+| **Total Views** | 199 |
+| **Total Clones (Downloads)** | 213 |
+| **Unique Cloners** | 104 |
 | **Referrals from Game Jolt** | 20 |
 
 ## 🏆 Global Impact
 
-- **This record is now saved on 212 computers worldwide.**
+- **This record is now saved on 213 computers worldwide.**
 - **18 people came directly from the Game Jolt post.**
-- **The conversion rate (view → download) is ~50%.**
+- **The conversion rate (view → download) is ~60%.**
 
 ---
 *Part of the Balatro World Record by a 14-year-old Iranian player.*

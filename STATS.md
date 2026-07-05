@@ -13,7 +13,7 @@
 
 ## 🏆 Global Impact
 
-- **This record is now saved on 213 computers worldwide.**
+- **This record is now saved on 238 computers worldwide.**
 - **18 people came directly from the Game Jolt post.**
 - **The conversion rate (view → download) is ~60%.**
 

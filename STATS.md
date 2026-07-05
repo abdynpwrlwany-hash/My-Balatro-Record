@@ -6,7 +6,7 @@
 
 | Metric | Total |
 | :--- | :---: |
-| **Total Views** | 199 |
+| **Total Views** | 232 |
 | **Total Clones (Downloads)** | 213 |
 | **Unique Cloners** | 104 |
 | **Referrals from Game Jolt** | 20 |

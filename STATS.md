@@ -1,15 +1,15 @@
 # My Balatro Record - Performance Report
 
-**Last Update:** 15 June 2026 (25 Khordad 1405)
+**Last Update:** 05 july 2026 (14 Tir 1405)
 
 ## 📊 Final Statistics (First Week)
 
 | Metric | Total |
 | :--- | :---: |
-| **Total Views** | 232 |
-| **Total Clones (Downloads)** | 213 |
-| **Unique Cloners** | 104 |
-| **Referrals from Game Jolt** | 20 |
+| **Total Views** | 238 |
+| **Total Clones (Downloads)** | 220 |
+| **Unique Cloners** | 111 |
+| **Referrals from Game Jolt** | 28 |
 
 ## 🏆 Global Impact
 

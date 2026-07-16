@@ -11,6 +11,7 @@
 | **Unique Cloners** | 142 |
 | **Referrals from Game Jolt** | 28 |
 | **Unique visitors** | 6 |
+
 Line chart with 14 data points.
 The chart has 1 X axis displaying categories.
 The chart has 1 Y axis displaying Unique visitors. Data ranges from 0 to 3.

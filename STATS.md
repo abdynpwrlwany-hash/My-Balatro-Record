@@ -6,11 +6,19 @@
 
 | Metric | Total |
 | :--- | :---: |
-| **Total Views** | 238 |
-| **Total Clones (Downloads)** | 220 |
-| **Unique Cloners** | 111 |
+| **Total Views** | 300 |
+| **Total Clones (Downloads)** | 264 |
+| **Unique Cloners** | 142 |
 | **Referrals from Game Jolt** | 28 |
-
+| **Unique visitors** | 6 |
+Line chart with 14 data points.
+The chart has 1 X axis displaying categories.
+The chart has 1 Y axis displaying Unique visitors. Data ranges from 0 to 3.
+End of interactive chart.
+Line chart with 14 data points.
+The chart has 1 X axis displaying categories.
+The chart has 1 Y axis displaying Unique visitors. Data ranges from 0 to 3.
+End of interactive chart.
 ## 🏆 Global Impact
 
 - **This record is now saved on 238 computers worldwide.**

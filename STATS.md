@@ -1,16 +1,16 @@
 # My Balatro Record - Performance Report
 
-**Last Update:** 05 july 2026 (14 Tir 1405)
+**Last Update:** 30 July 2026 (Thursday, 08 August 1405)
 
 ## 📊 Final Statistics (First Week)
 
 | Metric | Total |
 | :--- | :---: |
-| **Total Views** | 300 |
-| **Total Clones (Downloads)** | 264 |
-| **Unique Cloners** | 142 |
-| **Referrals from Game Jolt** | 28 |
-| **Unique visitors** | 6 |
+| **Total Views** | 338 |
+| **Total Clones (Downloads)** | 285 |
+| **Unique Cloners** | 159 |
+| **Referrals from Game Jolt** | 42 |
+| **Unique visitors** | 7 |
 
 Line chart with 14 data points.
 The chart has 1 X axis displaying categories.

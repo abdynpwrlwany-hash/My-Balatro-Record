@@ -24,7 +24,7 @@ End of interactive chart.
 
 - **This record is now saved on 238 computers worldwide.**
 - **18 people came directly from the Game Jolt post.**
-- **The conversion rate (view → download) is ~60%.**
+- **The conversion rate (view → download) is 82.4%.**
 
 ---
 *Part of the Balatro World Record by a 14-year-old Iranian player.*

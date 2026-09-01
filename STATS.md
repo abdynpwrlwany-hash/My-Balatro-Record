@@ -6,11 +6,11 @@
 
 | Metric | Total |
 | :--- | :---: |
-| **Total Views** | 358 |
-| **Total Clones (Downloads)** | 295 |
-| **Unique Cloners** | 168 |
+| **Total Views** | 411 |
+| **Total Clones (Downloads)** | 312 |
+| **Unique Cloners** | 180 |
 | **Referrals from Game Jolt** | 43 |
-| **Unique visitors** | 8 |
+| **Unique visitors** | 9 |
 
 Line chart with 14 data points.
 The chart has 1 X axis displaying categories.

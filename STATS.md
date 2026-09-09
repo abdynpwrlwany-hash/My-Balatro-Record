@@ -12,14 +12,6 @@
 | **Referrals from Game Jolt** | 43 |
 | **Unique visitors** | 9 |
 
-Line chart with 14 data points.
-The chart has 1 X axis displaying categories.
-The chart has 1 Y axis displaying Unique visitors. Data ranges from 0 to 3.
-End of interactive chart.
-Line chart with 14 data points.
-The chart has 1 X axis displaying categories.
-The chart has 1 Y axis displaying Unique visitors. Data ranges from 0 to 3.
-End of interactive chart.
 ## 🏆 Global Impact
 
 - **This record is now saved on 238 computers worldwide.**

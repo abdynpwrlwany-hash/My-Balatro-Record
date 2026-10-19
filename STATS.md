@@ -1,15 +1,15 @@
 # My Balatro Record - Performance Report
 
-**Last Update:** 28 September 2026
+**Last Update:** 19 October 2026
 
 ## 📊 Final Statistics (First Week)
 
 | Metric | Total |
 | :--- | :---: |
-| **Total Views** | 456 |
+| **Total Views** | 486 |
 | **Total Clones (Downloads)** | 331 |
-| **Unique Cloners** | 197|
-| **Unique visitors** | 13 |
+| **Unique Cloners** | 202|
+| **Unique visitors** | 14 |
 
 ## 🏆 Global Impact
 
